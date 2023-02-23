@@ -1,3 +1,6 @@
 this is the new project
 
+this is the new feature in my app branch1
+
+
 this is my new feature in branch2frombranch1
